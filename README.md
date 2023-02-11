@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AXVIII3
-- 👀 I’m interested in Programming and Gamedev alongside some Graphic Design and Gaming
-- 🌱 I’m currently learning Unity and C#
-- 📫 How to reach me: Discord AXVIII3#5624
+- 👀 I’m interested in General Programming, Gamedev, WebDev and other dev stuff alongside some Graphic Design and Gaming
+- 🌱 I’m currently learning Unity, C#, JAVA, JS, TS and some more stuff
+- 📫 How to reach me: Discord AXVIII3#5624 or https://axviii3.is-a.dev
 
 <!---
 AXVIII3/AXVIII3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
