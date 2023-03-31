@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AXVIII3
 - 👀 I’m interested in General Programming, Gamedev, WebDev and other dev stuff alongside some Graphic Design and Gaming
-- 🌱 I’m currently learning Unity, C#, JAVA, JS, TS and some more stuff
+- 🌱 I’m currently learning Unity, C#, JAVA, JS and some more stuff
 - 📫 How to reach me: Discord AXVIII3#5624 or https://axviii3.is-a.dev
 
 <!---
