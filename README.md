@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Unity, C#, JAVA, JS and some more stuff
 - 📫 How to reach me: Discord AXVIII3 (@axviii3) or https://axviii3.is-a.dev
 
-[![](https://github-readme-stats.vercel.app/api?username=AXVIII3&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=AXVIII3&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
