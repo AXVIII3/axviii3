@@ -4,6 +4,5 @@
 - 📫 How to reach me: Discord AXVIII3 (@axviii3) or https://axviii3.is-a.dev
 
   
-    
   [![](https://github-readme-stats.vercel.app/api?username=AXVIII3&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=Smile#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
   [![](https://github-readme-stats.vercel.app/api?username=AXVIII3&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
