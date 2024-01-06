@@ -5,4 +5,4 @@
 <br>
   
 &nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api?username=AXVIII3&show_icons=true&theme=transparent&border_radius=10&title_color=bebebe&text_color=aeaeae&icon_color=f19762&rank_icon=github&hide_rank=true&include_all_commits=true&custom_title=My_Stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api?username=AXVIII3&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api?username=AXVIII3&show_icons=true&theme=transparent&border_radius=10&rank_icon=github&hide_rank=true&include_all_commits=true&custom_title=My_Stats#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
